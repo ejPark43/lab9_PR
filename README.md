@@ -10,16 +10,16 @@
 #### 이 프로그램을 사용했을 때 얻는 효과는   
 손이 덜 아프고, 머리 아픈 계산을 하지 않아도 되며, 프로그램이 알아서 지출 내역을 정산해 주기 때문에 계산기를 두드리고 있을 필요가 없습니다.   
 
-<center><img src="(https://user-images.githubusercontent.com/130718231/236451369-57d7de84-af54-4387-b6fb-3a6876b56229.png)" width="300" height="300"></center>
+<img src="(https://user-images.githubusercontent.com/130718231/236451369-57d7de84-af54-4387-b6fb-3a6876b56229.png)" width="300" height="300" alt="taxImg"></img>
 
 
-## 프로그램의 기능 설명 
-
+## 프로그램의 기능 설명
+(내용작성)   
 
 ## 프로젝트에 사용된 개발환경 및 언어
 #### vscode와 C언어를 이용하였습니다. 
-![image](https://user-images.githubusercontent.com/130718231/236453724-13d9f6fb-bf3c-42c1-a5d9-979a97304435.png)
-![image](https://user-images.githubusercontent.com/130718231/236453858-5720957d-7ce5-4f9f-9ed6-320a020577a2.png)
+<img src="(https://user-images.githubusercontent.com/130718231/236453724-13d9f6fb-bf3c-42c1-a5d9-979a97304435.png)" width="250" height="250" alt="vscodeIcon"></img>
+<img src="(https://user-images.githubusercontent.com/130718231/236453858-5720957d-7ce5-4f9f-9ed6-320a020577a2.png)" width="250" height="250" alt="cIcon"></img>
 
 
 ## 팀 소개 및 팀원이 맡은 역할
